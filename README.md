@@ -15,6 +15,8 @@ Esta é uma simples calculadora web que permite calcular o somatório de todos o
 - Caso a entrada seja 10, o resultado será 23, com os números 3, 5, 6 e 9 utilizados.
 - Caso a entrada seja 11, o resultado será 33, com os números 3, 5, 6, 9 e 10 utilizados.
 
+![Desafio1.png](https://github.com/Rodrigo-Balestrin/Desafio-1-ESCRIBO/blob/main/Desafio1.png)
+
 ## Contribuição
 
 Sinta-se à vontade para abrir problemas ou enviar solicitações de pull para melhorias. Este é um projeto simples para o desafio Técnico da empresa Escribo.
